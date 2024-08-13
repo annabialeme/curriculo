@@ -1,0 +1,7 @@
+.perfil {
+    .foto-perfil {
+        width: 10%;
+        border-radius:100%;
+        border:  1px solid black;
+    } 
+}
